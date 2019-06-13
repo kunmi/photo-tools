@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Photo Tools</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="option_image_auto_sort_title">> Fix Date/Time Reorder Tool</string>
+    <string name="option_image_auto_sort_body">This tool helps fix images, whose date-time taken have
+        been messed up; Especially after moving images between phone/sd storage</string>
+    <string name="option_image_auto_sort_launch_text">Launch</string>
+
+</resources>
